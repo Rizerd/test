@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    margin: 0 auto;
+}
+
+header {
+    width: 100%;
+}
+
+#container {
+    position: relative;
+    left: 230px;
+    width: 900px;
+}
+
+.inner_container {
+    width: 100%;
+}
+
+p {
+    color: white;
+}
+
+header p {
+    position: relative;
+    top: -10px;
+    font-size: 80px;
+    background-color: darkgray;
+}
+
+main {
+    width: 590px;
+    float: left;
+}
+
+aside {
+    width: 290px;
+    float: left;
+    height: 390px;
+}
+
+aside img {
+    width: 310px;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 50px;
+}
+
+main p {
+    font-size: 28px;
+}
+
+.one-third {
+    width: 294px;
+    float: left;
+    margin: 3px;
+}
+
+.one-third p {
+    background-color: darkgray;
+    color: darkturquoise;
+    border: medium inset blue;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: -40px;
+}
+
+.one-third img {
+    width: 293px;
+    margin: 3px;
+    position: relative;
+    top: -40px;
+}
+
+.des p {
+    background-color: black;
+    text-align: left;
+    color: white;
+    font-size: 20px;
+}
+
+#haikeigazou {
+    width: 100%;
+    background: osomatu.jpg no-repeat;
+    background-position: center center;
+}
+
+main2 {
+    width: 900px;
+    float: left;
+}
+
+main2 h1 {
+    text-align: left;
+}
+
+#top p {
+    width: 1362px;
+    background-color: blue;
+    font-size: 50px;
+    position: relative;
+    top: -1827px;
+    left: -228px;
+}
